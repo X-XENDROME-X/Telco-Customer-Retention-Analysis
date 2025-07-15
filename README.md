@@ -119,6 +119,7 @@ The Random Forest model's feature importance plot confirmed that `Contract`, `te
 ├── Telco_Customer_Retention_Analysis.html    # Rendered professional HTML report
 ├── Telco_Customer_Retention_Analysis.pdf     # Rendered professional PDF report
 ├── Telco_Banner.jpg                          # Main banner image for the README
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv      # The raw dataset
 ├── plot_contract.png                         # Visualization of churn by contract type
 ├── plot_feature_importance.png               # Random Forest feature importance plot
 └── plot_tenure.png                           # Visualization of churn by customer tenure

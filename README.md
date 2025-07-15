@@ -111,12 +111,17 @@ The Random Forest model's feature importance plot confirmed that `Contract`, `te
 ## 📂 Project Structure
 
 ```
-├── Telco_Customer_Retention_Analysis.Rmd   # Main R Markdown file with all code and analysis
-├── Telco_Customer_Retention_Analysis.html  # Rendered professional HTML report
-├── Telco_Customer_Retention_Analysis.pdf   # Rendered professional PDF report
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv    # The raw dataset
-├── README.md                               # This README file
-└── requirements.txt                        # List of required R packages
+├── .gitignore                                # Git ignore file
+├── LICENSE                                   # Project License
+├── README.md                                 # This README file
+├── requirements.txt                          # List of required R packages
+├── Telco_Customer_Retention_Analysis.Rmd     # Main R Markdown file with all code and analysis
+├── Telco_Customer_Retention_Analysis.html    # Rendered professional HTML report
+├── Telco_Customer_Retention_Analysis.pdf     # Rendered professional PDF report
+├── Telco_Banner.jpg                          # Main banner image for the README
+├── plot_contract.png                         # Visualization of churn by contract type
+├── plot_feature_importance.png               # Random Forest feature importance plot
+└── plot_tenure.png                           # Visualization of churn by customer tenure
 ```
 
 ---

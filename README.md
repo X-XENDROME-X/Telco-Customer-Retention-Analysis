@@ -127,8 +127,7 @@ To reproduce this analysis, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/X-XENDROME-X/Telco-Customer-Retention-Analysis.git](https://github.com/X-XENDROME-X/Telco-Customer-Retention-Analysis.git)
-    cd Telco-Customer-Retention-Analysis
+    git clone https://github.com/X-XENDROME-X/Telco-Customer-Retention-Analysis.git
     ```
 
 2.  **Prerequisites:**

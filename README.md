@@ -4,7 +4,7 @@
   <img src="Telco_Banner.jpg" alt="Telco Customer Retention Analysis" width="600"/>
 </p>
 
-An end-to-end data analysis project that performs a comprehensive exploratory data analysis (EDA) and builds predictive models to understand the key drivers of customer attrition in the telecommunications industry. This project uses R, `tidyverse`, and `caret` to deliver actionable business insights from raw data, achieving approximately 81% prediction accuracy.
+An end-to-end Data Science Project that performs a comprehensive analysis of telecommunications customer data to identify the key drivers of churn. This project leverages R with the tidyverse for data manipulation and visualization, and caret for modeling. It features a deep Exploratory Data Analysis (EDA) to uncover business insights and builds two predictive models—Logistic Regression and Random Forest—to classify at-risk customers with approximately 81% accuracy. The entire workflow is documented in a professional R Markdown report, demonstrating a full cycle from raw data to actionable retention strategies.
 
 ---
 

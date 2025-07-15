@@ -1,0 +1,9 @@
+R packages required to run the Telco_Customer_Retention_Analysis.Rmd script
+tidyverse
+knitr
+rmdformats
+caret
+randomForest
+gridExtra
+corrplot
+kableExtra

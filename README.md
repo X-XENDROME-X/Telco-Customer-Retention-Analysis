@@ -38,7 +38,7 @@ This project provides a complete workflow for a real-world business problem: cus
 
 This analysis utilizes the **Telco Customer Churn** dataset, a popular and realistic dataset for classification tasks.
 
-- **Source**: Kaggle
+- **Source**: Kaggle ([https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn))
 - **Content**: Contains 7,043 customer records with 21 attributes, including demographic information, account details, services subscribed to, and the target variable, `Churn`.
 - **File**: `WA_Fn-UseC_-Telco-Customer-Churn.csv`
 
